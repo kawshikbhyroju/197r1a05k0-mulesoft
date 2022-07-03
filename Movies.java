@@ -36,7 +36,12 @@ public class Movies {
             	
             	System.out.println(id+" "+Name +" "+Actor+" "+Actress+" "+Director+" "+Year_of_Release);
             	            	
-
+//            	System.out.println(id);
+//            	System.out.println(Name);
+//            	System.out.println(Actor);
+//            	System.out.println(Actress);
+//            	System.out.println(Director);
+//            	System.out.println(Year_of_Release);
             	
             }
             
